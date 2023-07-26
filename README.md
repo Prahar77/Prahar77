@@ -1,7 +1,8 @@
-dsfsdfsdfe
 My skills are:
-1. PHP
-2. HTML
-
-Based on: KTM
-I am from Nepal.
+1. PHP (Laravel)
+2. HTML & CSS
+3. Python 
+4. Java
+5. C++
+6. C#
+7. Networking (CISCO)
